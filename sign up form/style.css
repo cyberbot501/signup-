@@ -1,0 +1,72 @@
+body{
+    background: url("dd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.signupbox{
+   background: rgba(44, 62, 80, 0.7);
+   padding: 70px;
+   width: 200px;
+   margin-top: 50px;
+   margin-left: 3px;
+   margin: 0 auto;
+}
+
+form{
+    width: 200px;
+    text-align: center;
+    margin-top: -10;
+}
+
+input{
+    width: 200px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid white;
+    font-size: 20px;
+    font-weight: 150px;
+    padding: 6px;
+    transition: boder 0.5s;
+    outline: none;
+    height: 30px;
+    color: khaki;
+}
+
+
+button{
+    height: 40px;
+    width: 150px;
+    color: khaki;
+    background-color:  rgba(44, 62, 80, 0.7);
+}
+
+button{
+    cursor: pointer;
+}
+button:hover{
+    color: #0088a9;
+    
+}
+
+a{
+    text-decoration: none;
+    color: khaki;
+}
+
+a:hover{
+    color: #0088a9;
+    
+}
+
+h1{
+    color: goldenrod;
+}
+
+.footer{
+    text-align: center;
+    color:  rgba(44, 62, 80, 1);
+}
+
